@@ -1,0 +1,23 @@
+.heading {
+  color: red;
+}
+
+.links {
+  font-size: 29px;
+  font-style: italic;
+}
+
+p {
+  color: blue;
+}
+
+iframe {
+  border-radius: 10px;
+  border-style: dashed;
+}
+
+body {
+  border-style: dashed;
+  border-radius: 20px;
+  background-color: green;
+}

@@ -1,0 +1,18 @@
+.nametag {
+  background-color: red;
+  border-style: solid;
+  border-radius: 20px;
+}
+
+.hello {
+  color: white;
+  text-indent: 230px;
+  font-size: 40px;
+}
+
+.name {
+  background-color: white;
+  text-indent: 230px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 50px;
+}
