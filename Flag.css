@@ -1,0 +1,22 @@
+.flag {
+  width: 1800px;
+  height: 150px;
+}
+
+.blue {
+  background-color: blue;
+  width: 20%;
+  height: 60%;
+}
+
+.white {
+  background-color: white;
+  width: 19%;
+  height: 60%;
+}
+
+.red {
+  background-color: #ff0000;
+  width: 20%;
+  height: 60%;
+}

@@ -1,18 +1,30 @@
 .nametag {
   background-color: red;
   border-style: solid;
-  border-radius: 20px;
+  border-radius: 40px;
+  width: 600px;
+  border-color: white;
+  margin: auto;
 }
 
 .hello {
   color: white;
-  text-indent: 230px;
+  text-align:center;
   font-size: 40px;
+  font-weight: bolder;
 }
+
+.nameis {
+    text-align: center;
+    color: white;
+}
+
+
+
 
 .name {
   background-color: white;
-  text-indent: 230px;
+  text-align: center;
   font-family: 'Permanent Marker', cursive;
-  font-size: 50px;
+  font-size: 70px;
 }
