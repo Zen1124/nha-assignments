@@ -1,0 +1,17 @@
+.mickey {
+  padding: 25px;
+  border-color: black;
+  border: 10px;
+  border-style: solid;
+  margin: 20px;
+  width: 50px;
+}
+
+.big-box {
+  width: 100px;
+  height: 100px;
+}
+
+.small-box {
+  background-color: red;
+}
