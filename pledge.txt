@@ -1,0 +1,1 @@
+I pledge Allienge to CSS and the browser to which it stands. That inline does not respect width and height but block does. 
