@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+   <div class="container">
+    <div class="row">
+      <div class="col-xs-6">
+        <a href="http://google.com">Google</a>
+      </div>
+      <div class="col-xs-6">
+        <p> Twinkle, twinkle, little star.
+        <br>How I wonder what you are!
+        <br>Up above a world so high,
+        <br>Like a diamond in the sky. </p>
+      </div>
+    </div>
+   </div>
+  </body>
+</html>
